@@ -1,0 +1,42 @@
+
+
+.icon-prev {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+
+
+.icon-next {
+    background-color: orange;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.imagen1, .imagen2, .imagen3 {
+    width: 80%;
+    margin: auto;
+   
+    
+}
+
+.slide {
+    list-style-type: none;
+    
+}
+
+.botonera {
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.titulo {
+    text-align: center;
+}
+
