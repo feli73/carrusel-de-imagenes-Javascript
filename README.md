@@ -9,6 +9,11 @@
 - Diseño adaptable para diferentes tamaños de pantalla.
 
 
+## Ver Carrusel
+
+Puedes ver una demo del carrusel [here](https://feli73.github.io/carrusel-de-imagenes-Javascript/).
+
+
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
